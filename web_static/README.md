@@ -394,7 +394,7 @@ Requirements:
 
 --------------------------
 
-### [9. Full Details](url)
+### [9. Full Details](https://github.com/MathieuMorel62/holbertonschool-AirBnB_clone/blob/main/web_static/100-index.html)
   
 Write an HTML page that displays a header, footer, a filters box with dropdown and results.
   
