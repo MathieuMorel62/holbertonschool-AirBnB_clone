@@ -445,7 +445,7 @@ Requirements:
   - [styles/3-header.css](https://github.com/MathieuMorel62/holbertonschool-AirBnB_clone/blob/main/web_static/styles/3-header.css): for the header style
   - [styles/3-footer.css](https://github.com/MathieuMorel62/holbertonschool-AirBnB_clone/blob/main/web_static/styles/3-footer.css): for the footer style
   - [styles/6-filters.css](https://github.com/MathieuMorel62/holbertonschool-AirBnB_clone/blob/main/web_static/styles/6-filters.css): for the filters style
-  - [styles/100-places.css](url): for the places style
+  - [styles/100-places.css](https://github.com/MathieuMorel62/holbertonschool-AirBnB_clone/blob/main/web_static/styles/100-places.css): for the places style
 
 <img src="https://user-images.githubusercontent.com/113856302/224129334-6526fef9-df3c-43c4-8d61-a2623c1923fb.png" width="100%">
 
